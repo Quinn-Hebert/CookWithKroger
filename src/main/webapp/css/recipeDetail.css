@@ -1,0 +1,81 @@
+
+#logo {
+	display: inline-block;
+	position: fixed;
+	top: 10px;
+  	left: 10px;
+	align-self: flex-end;
+
+	
+}
+
+#aboutus {
+	display: inline-block;
+	position: fixed;
+	top: 10px;
+  	right: 10px;
+	align-self: flex-end;
+}
+
+
+html {
+	display:block;
+	background-image: url("Background3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+body {
+	margin-left: 10%;
+	margin-right: 10%;
+	
+	margin-top:90px;
+	width: 80%;
+	height: auto ;
+	background-color: rgba(204, 204, 204, 0.85);
+	border-radius: 10px;
+	
+
+}
+
+#videop {
+	align-content: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 36%;
+}
+
+#video {
+	align-content:
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#bodyInside {
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 7%;
+}
+
+#ingredients {
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+
+h1 {
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	color: #3A3A3A;
+}
+
+#ingP {
+	color:#3A3A3A;
+	margin-left:10%;
+	margin-right: 10%;
+
+}
+

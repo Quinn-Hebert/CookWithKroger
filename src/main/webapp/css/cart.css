@@ -1,0 +1,57 @@
+html {
+	display:block;
+	background-image: url("Background3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+header {
+	
+	height: 110px;
+	width: 100%;
+	
+}
+
+body {
+	margin-left: 50px;
+	margin-right: 50px;
+	
+	background-color: transparent;
+}
+
+h1 {
+	font-family: 'Pacifico';
+	font-size: 40px;
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	color: #3A3A3A;
+}
+
+#aboutus {
+	display: inline-block;
+	position: fixed;
+	top: 10px;
+  	right: 10px;
+	align-self: flex-end;
+}
+
+#bodyish  {
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 15%;
+	width: 80%;
+	height: auto;
+	background-color: rgba(204, 204, 204, 0.85);
+	border-radius: 10px;
+}
+
+#logo {
+	display: inline-block;
+	position: fixed;
+	top: 10px;
+  	left: 10px;
+	align-self: flex-end;
+
+	
+}

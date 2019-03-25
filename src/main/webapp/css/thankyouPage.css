@@ -1,0 +1,31 @@
+html {
+	display:block;
+	background-image: url("Background3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+body {
+	background-color: rgba(204, 204, 204, 0.80);
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 50px;
+	border-radius: 10px;
+	padding: 8%;
+	
+	
+}
+
+p {
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+
+

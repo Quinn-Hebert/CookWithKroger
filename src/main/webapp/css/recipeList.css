@@ -1,0 +1,79 @@
+html {
+	display:block;
+	background-image: url("Background3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+#main-content {
+	 
+	 background-color: transparent;
+
+}
+ 
+
+.card {
+	background-color: rgba(218, 217, 217, 0.7);
+}
+
+#row3 {
+	background-color: transparent;
+	justify-content: space-around;
+	
+}
+
+#logo {
+	display: inline-block;
+	position: fixed;
+	top: 10px;
+  	left: 10px;
+	align-self: flex-end;
+
+	
+}
+
+#aboutus {
+	display: inline-block;
+	position: fixed;
+	top: 10px;
+  	right: 10px;
+	align-self: flex-end;
+
+	
+}
+
+
+
+body {
+	margin-left: 50px;
+	margin-right: 50px;
+	
+	background-color: transparent;
+}
+
+#bodyish {
+	margin-top: 90px;
+	margin-left: 50px;
+	margin-right: 50px;
+	height: 500px;
+	justify-content: space-between;
+	background-color: rgba(204, 204, 204, 0.85);
+	border-radius: 10px;
+}
+
+
+
+header {
+	
+	background-color:transparent;
+	
+	
+	padding: 10px;
+	padding-left: 43%;
+	padding-right: 40%;
+	margin-top: 7px;
+	align-contents:center;
+	
+}
